@@ -9,3 +9,5 @@
 * [2.6. Ênfase, importância e marcação](https://github.com/BlackWidow29/Web-Design-Responsivo-com-HTML5-CSS3-e-BEM/commit/cdaf9ea4eeba83f227212516d553d225e7d1ad64)
 * [2.7. Imagens](https://github.com/BlackWidow29/Web-Design-Responsivo-com-HTML5-CSS3-e-BEM/commit/2be34a5030719363a6c0e11f9c8953edf9957d34)
 * [2.8. Âncoras (links)](https://github.com/BlackWidow29/Web-Design-Responsivo-com-HTML5-CSS3-e-BEM/commit/9d195ff8371d95bf4401af85037aaacd286c96dc)
+
+* [2.9. Elementos estruturais](https://github.com/BlackWidow29/Web-Design-Responsivo-com-HTML5-CSS3-e-BEM/commit/6d4af322589211dfc5a816497f90c9a1e24ecd29)
